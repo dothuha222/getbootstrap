@@ -1,0 +1,281 @@
+.title-min{
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;;
+}
+
+.title-super-min{
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+.title-max{
+    font-size: 32px;
+    font-family: 'Playfair Display', serif;;
+
+}
+
+.title-super-max{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;;
+
+}
+
+.app_container{
+    margin: 0 99.66px;
+}
+
+.blog_nav{
+    padding: 16px 0px;
+    
+}
+
+.blog_nav .blog_nav-row{
+    align-items: center;
+    height: 33px;
+    line-height: 33px;
+}
+
+
+.blog_nav .subscribe a{
+    color: #6C757D;
+}
+
+.blog-logo{
+    text-align: center;
+    position: relative;
+    left: -7px;
+}
+
+.blog-logo .blog-logo_link{
+    color: #212529;
+    font-size: 36px;
+    font-family:  'Playfair Display', serif;
+}
+
+.blog_nav .header-button{
+    text-align:end;
+}
+
+.blog_nav .header-button i{
+    margin: 0 16px;
+    color: #6C757D;
+}
+
+.blog_nav .header-button button{
+    color: #6C757D;
+    padding: 4px 8px;
+    font-size: 14px;
+    border: 1.5px solid #6C757D;
+    border-radius: 4px;
+    line-height: 20px;
+    background-color: white;
+}
+
+.blog_nav .header-button button:hover{
+    color: white;
+    background-color: #6C757D;
+}
+
+.blog_type{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+    border-top: 1px solid;
+    border-top-color: #e2dcdc;
+    margin-bottom: 8px; 
+}
+
+.blog_type a{
+    color: #6C757D;
+    padding: 7px;
+}
+
+.blog_title-card{
+    padding: 48px;
+    background-color:#212529;
+    color: #fff;
+    margin-bottom: 26px;
+}
+
+.blog_title-card div{
+    padding: 0;
+}
+.blog_title-card h5{
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size:48px;
+}
+
+.blog_title-card p{
+    font-size: 20px;
+    margin: 16px 0;
+    font-weight: 300;
+}
+
+.blog_title-card a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.blog_post .img{
+    background-color: #55595C;  
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 31.5%;
+    position: relative;
+    left: 12px;
+    border-radius: 6px;
+}
+
+.blog_post .img span{
+
+    font-weight: 400;
+    color: #ECEEEF;
+}
+
+.blog_post-body{
+    padding: 24px;
+}
+
+.blog_post-title{
+    margin-bottom:8px;
+    font-weight: 700;
+    
+}
+
+.blog_post-time{
+    margin-bottom: 4px;
+}
+
+.blog_post-text{
+    margin-bottom: 36.4px;
+}
+
+.blog_post-body h3{
+    font-family:  'Playfair Display', serif;
+    margin:0;
+}
+
+.blog_main{
+    padding-top: 12px;
+}
+
+.blog_main-title h1{
+    font-size: 28px;
+    font-style: italic;
+    font-family: 'PLAYFAIR DISPLAY';
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.sample_post{
+    margin-bottom: 64px;
+}
+
+.sample_post-title{
+    font-size: 40px;
+    font-family: 'Playfair Display';
+    margin-bottom: 4px;
+}
+
+.sample_post-text:first-child{
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 16px;
+}
+
+.blockquote-title{
+    margin-bottom: 8px;
+}
+
+.blockquotes-notice{
+    font-size:20px;
+}
+
+.examplelists-title{
+    margin-bottom:8px;
+}
+
+.examplelists div{
+    padding-top: 2px;
+}
+
+.examplelists div h1{
+    font-size:16px;
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+
+.examplelists div p{
+    margin-bottom:8px;
+}
+
+.inlineHTML-title{
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+.anotherblog_post{
+    margin-bottom:64px;
+}
+
+.new_feature{
+    margin-bottom: 64px;
+}
+
+.blog_pagnigation{
+    margin-bottom: 64px;
+}
+
+.blog_pagnigation-ul{
+    align-items: center;
+}
+
+.blog_pagnigation-page-link{
+    padding: 6px 11px !important;
+    background-color: white !important;
+    border-radius: 17px !important;
+    color: #1b77fd !important;
+    font-size:15px;
+    margin-right: 6px;
+}
+
+.blog_pagnigation li span{
+    padding: 7px 11px !important;
+    background-color: white !important;
+    border-radius: 17px !important;
+    color: #A0A6AB !important;
+    font-size:15px;
+    border: 1px solid #A0A6AB;
+    cursor: default;
+    user-select: none;
+}
+
+.blog_extra{
+    position:sticky;
+    top: 32px;
+}
+
+.blog_extra-content{
+    padding: 24px;
+    margin-bottom: 0;
+}
+
+.blog_extra-content ul{
+    padding: 0;
+    list-style: none;
+}
+
+.blog_main-col-4{
+    padding: 0 24px;
+}
+
+.blog_footer{
+    padding: 40px 0px;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+    color: #727272;
+}
